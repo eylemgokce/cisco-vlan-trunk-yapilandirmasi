@@ -46,7 +46,7 @@ switchport access vlan 20
 exit
 ```
 
-3. Trunk Bağlantısının Kurulması
+### 3. Trunk Bağlantısının Kurulması
 
 Birden fazla VLAN trafiğinin (802.1q etiketleriyle) iki switch arasında taşınabilmesi için aradaki bağlantı portu Trunk moduna alınmıştır:
 ```text
@@ -56,7 +56,7 @@ end
 write memory
 ```
 
-Test ve Doğrulama
+### Test ve Doğrulama
 
 Yapılandırmanın başarıyla çalıştığını test etmek için şu adımlar izlenebilir:
 
