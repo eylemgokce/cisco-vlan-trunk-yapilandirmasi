@@ -29,7 +29,7 @@ vlan 20
 exit
 ```
 
-2. Access Portlarının Atanması
+### 2. Access Portlarının Atanması
 
 PC'lerin switch'lere bağlandığı portlar, ait oldukları VLAN'lara Access portu olarak atanmıştır:
 ```text
